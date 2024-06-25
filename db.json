@@ -1,0 +1,51 @@
+
+
+
+{
+  "profesores": [
+    {
+      "nombre": "Brand",
+      "apellido": "Cast",
+      "materias": [
+        {
+          "nombre": "node.js"
+        },
+        {
+          "nombre": "react"
+        },
+        {
+          "nombre": "Express"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodrigez",
+      "promedio": 8.2
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10
+    }
+  ],
+  "Cursos": [
+    {
+      "nombre": "node",
+      "duracion": 7,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "react",
+      "duracion": 8,
+      "dificultad": "intermedia"
+    },
+    {
+      "nombre": "Express",
+      "duracion": 8,
+      "dificultad": "alta"
+    }
+  ]
+}
